@@ -1,0 +1,20 @@
+.footer {
+    margin-top: 20px;
+    margin-left: 55px;
+    width: 540px;
+    display: flex;
+    justify-content: flex-start;
+
+    i {
+        padding-left: 50px;
+    }
+    
+    #comment {
+        padding-left: 0;
+    }
+    
+    h4 {
+        margin-top: 0;
+        padding-left: 10px;
+    }
+}
